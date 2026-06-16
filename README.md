@@ -17,18 +17,34 @@ I am a Computer Science undergraduate focused on building high-performance syste
 
 ---
 
-### Languages & Tools
+### Languages
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=java,py,js,ts,html,css&perline=6" />
 </a>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql&perline=7" />
-</a>
+### Backend
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,postman&perline=6" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nestjs,nodejs,express&perline=4" />
+</a>
+
+### Frontend
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,svelte&perline=2" />
+</a>
+
+### Databases
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&perline=3" />
+</a>
+
+### Other Tools
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman&perline=4" />
 </a>
 
 ---
