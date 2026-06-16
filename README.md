@@ -26,7 +26,7 @@ I am a Computer Science undergraduate focused on building high-performance syste
 ### Backend
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=fastapi,nestjs,nodejs,express&perline=4" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi&perline=4" />
 </a>
 
 ### Frontend
