@@ -47,8 +47,8 @@ I am a Computer Science undergraduate focused on building high-performance syste
   <img src="https://skillicons.dev/icons?i=git,github,figma,postman&perline=4" />
 </a>
 
----
 <!-- 
+---
 ### How to reach me
 
 📧 **Email:** [shenukamilan@gmail.com](mailto:shenukamilan@gmail.com)  
