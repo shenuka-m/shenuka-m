@@ -52,5 +52,5 @@ I am a Computer Science undergraduate focused on building high-performance syste
 ### How to reach me
 
 📧 **Email:** [shenukamilan@gmail.com](mailto:shenukamilan@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/shenuka-perera](https://www.linkedin.com/in/shenuka-perera)  
+🔗 **LinkedIn:** [linkedin.com/in/shenuka-perera](https://www.linkedin.com/in/shenuka-m)  
 🌐 **Portfolio:** [shenuka-portfolio.netlify.app](https://shenuka-portfolio.netlify.app/)
